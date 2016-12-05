@@ -1,6 +1,4 @@
-/**
- * Created by zl on 2016/12/1.
- */
+
 
 function fun(a, b) {
     console.log(a + 'print in function' + b)
